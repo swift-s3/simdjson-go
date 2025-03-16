@@ -1,4 +1,4 @@
-module github.com/minio/simdjson-go
+module github.com/swift-s3/simdjson-go
 
 go 1.22
 

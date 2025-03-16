@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/minio/simdjson-go"
 	"os"
 	"sync"
+
+	"github.com/swift-s3/simdjson-go"
 )
 
 var tagParamsPool sync.Pool
